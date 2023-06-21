@@ -20,7 +20,7 @@
     "bootstrap-vue": "^2.0.0",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "vue-kinesis": "^1.1.5",
     "vue2-dropzone": "^3.6.0"
   },
